@@ -1,3 +1,5 @@
+# Check about the project using [About.md ](https://github.com/Pearl-Dsilva/WSD_Lab_Exercise_9/blob/master/About.md)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
